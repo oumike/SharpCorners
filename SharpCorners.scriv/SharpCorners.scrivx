@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="AMOS" Modified="2016-12-29 11:16:15 -0500" ModID="8FC1CD78-B3CD-4399-AF4E-8814659570C2">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="AMOS" Modified="2016-12-29 11:18:06 -0500" ModID="D7748199-AF76-4C80-BFF8-5BD43F7A4910">
     <Binder>
         <BinderItem ID="4" UUID="89742EE2-C675-4C61-870C-9C8E3BE5998C" Created="2007-03-25 16:48:19 -0500" Modified="2016-06-28 03:51:54 -0500" Type="Text">
             <Title>Stage Play US Format</Title>
@@ -28,14 +28,14 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="21" UUID="3F0D2D02-A749-472B-968D-2A912A24D1D2" Created="2015-09-24 02:04:51 -0500" Modified="2016-06-28 04:00:54 -0500" Type="Text">
+                <BinderItem ID="21" UUID="3F0D2D02-A749-472B-968D-2A912A24D1D2" Created="2015-09-24 02:04:51 -0500" Modified="2016-12-29 11:18:06 -0500" Type="Text">
                     <Title>Title Page</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="22">10,12</TextSelection>
+                        <TextSelection>44,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -224,7 +224,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 13:37:22 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-12-29 11:15:47 -0500"/>
+        <PreviousSession Words="3" Characters="6" Date="2016-12-29 11:15:47 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="610FF768-6DDA-4659-8235-140E7BC85693" Color="0.901961 0.917647 0.933333">

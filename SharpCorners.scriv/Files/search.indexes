@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="3">
-            <Title>Sample Script</Title>
-        </Document>
         <Document ID="4">
             <Title>Stage Play US Format</Title>
             <Text>STAGE PLAY (US FORMAT)
@@ -85,9 +82,9 @@ SCENE [N]</Text>
 
 
 
-&lt;$PROJECTTITLE&gt;
+Sharp Corners
 by
-&lt;$fullname&gt;
+Michael A. Cojocari
 
 
 
