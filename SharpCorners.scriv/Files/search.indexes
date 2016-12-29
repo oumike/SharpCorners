@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Sample Script</Title>
+        </Document>
+        <Document ID="4">
+            <Title>Stage Play US Format</Title>
+            <Text>STAGE PLAY (US FORMAT)
+
+About This Template
+When compiled (File &gt; Compile), this project will generate a script in the standard format for US stage plays. Please see the following PDF document by Matt Carless on the BBC Script Smart website for a description of the expected format:
+
+http://downloads.bbc.co.uk/writersroom/scripts/stageus.pdf
+
+How To Use This Template
+Edit the Title Page document to ensure it contains the correct information.
+Edit the “Characters” and “Setting” documents to include information about all the characters and settings that appear in your script. Of course, you may not know all of this information as you begin writing, so you may want to leave these as they are and come back to fill them in when the script is in its final stages.
+Create a new text document for each scene. You can choose Project &gt; New From Template &gt; New Scene (also available from the binder’s Ctrl-click contextual menu) or click the drop-down arrow beside the green “Add” button in the toolbar to access the document types. The new scene will appear immediately below the current binder selection. The template for the “New Scene” document is contained in the “Templates” folder (documents in that folder can be used as the basis for new documents and appear in the New From Template menu).
+The scene heading for each new scene document has already been started for you with “ACT [N]” and “SCENE [N]”. You should fill this in using Roman numerals for the act numbers and Arabic numerals for the scene numbers.
+Each scene should have “Page Break Before” set in the inspector, because each scene and act should start on a new page (this is done for you if you use the “New Scene” document type).
+You can give act folders and scene documents any titles you like, as the titles are not used in the final document.
+Ensure you are in script mode (Format &gt; Scriptwriting &gt; Script Mode) when typing your scenes (when in script mode, the footer bar will show the script elements instead of the word and character count, and the document icon in the binder will be yellowish).
+You can add names to the character element’s auto-complete list so that you don’t have to keep typing them out. To do this, open Format &gt; Scriptwriting &gt; Script Settings… and select the Character &amp; Dialogue element from the list on the left, then click the Auto-Complete tab and use the “+” button to add new words.
+Characters, Settings and Notes folders have been set up for you, which you can use however you wish—or you can delete them and create different folders to organise your project. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Compile your manuscript for printing by selecting File &gt; Compile. Note that stage play manuscripts should generally have no page numbering on the title, characters and setting pages—page numbering should begin at the start of Act I—but Scrivener does not allow for this yet (page numbering can only start on page 1 or 2), so you may wish to do the final formatting in a dedicated word processor.
+
+Sample Document
+See the “Sample Script” PDF file in the Research folder for an example of a script that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="7">
+            <Title>Characters</Title>
+            <Text>CHARACTERS
+CHARACTER #1	Character description.</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Setting</Title>
+            <Text>SETTING
+
+Description of the general setting.
+
+TIME
+
+Time of the action.
+
+ACT I
+Scene 1	Somewhere.	Now.
+Scene 2	Somewhere else.	Now.</Text>
+        </Document>
+        <Document ID="9">
+            <Title>Act</Title>
+        </Document>
+        <Document ID="10">
+            <Title>Scene</Title>
+            <Text>ACT [N]
+SCENE [N]</Text>
+        </Document>
+        <Document ID="16">
+            <Title>Notes</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Settings</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="19">
+            <Title>New Scene</Title>
+            <Text>ACT [N]
+SCENE [N]</Text>
+        </Document>
+        <Document ID="20">
+            <Title>Templates</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+by
+&lt;$fullname&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+Your name
+Your address
+Your phone number
+Your email address
+Your agent’s address and phone number
+
+</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="22">
+            <Title>Sample Script</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
